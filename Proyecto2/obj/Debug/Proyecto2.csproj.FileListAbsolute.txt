@@ -1,0 +1,12 @@
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.csprojAssemblyReference.cache
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.Empleados.resources
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.Opciones.resources
+C:\Users\SlowLoris\Desktop\Programacion III\Proyecto2\obj\Debug\Proyecto2.Padre.resources
